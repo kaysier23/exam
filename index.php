@@ -30,7 +30,7 @@
     </ul>
             ";
   ?>
-  <container>
+  </container>
 </body>
 <?php
  }
