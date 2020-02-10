@@ -13,7 +13,7 @@
  
 
 <body>
- <?xml-stylesheet href="style.css"type="text/css"?>
+ <link rel="stylesheet" href="style.css" type="text/css">
 <?php
    $title = $data->getElementsByTagName("title")->item(0)->nodeValue;
    $link = $data->getElementsByTagName("link")->item(0)->nodeValue;
