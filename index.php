@@ -11,6 +11,7 @@ ul {
 
 li {
   float: left;
+  color: white;
 }
 
 li a {
