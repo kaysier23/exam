@@ -435,15 +435,6 @@
 			<pubDate>Thu, 06 Feb 2020 14:48:29 EST</pubDate>
 			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2020/02/200206144829.htm</guid>
 		</item>
-	</channel>
-</rss>
-<!-- Page successfully written to cache. -->
-<!-- Cached Mon, 10 Feb 2020 
-
-
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-	<channel>
 		<title>Top Technology News -- ScienceDaily</title>
 		<link>https://www.sciencedaily.com/news/top/technology/</link>
 		<description>Top stories featured on ScienceDaily's Space &amp; Time, Matter &amp; Energy, and Computers &amp; Math sections.</description>
@@ -876,4 +867,3 @@
 </rss>
 <!-- Page successfully written to cache. -->
 <!-- Cached Mon, 10 Feb 2020 
-
