@@ -440,7 +440,6 @@
 <!-- Page successfully written to cache. -->
 <!-- Cached Mon, 10 Feb 2020 
 
-https://www.sciencedaily.com/rss/top/technology.xml
 
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
@@ -873,3 +872,8 @@ https://www.sciencedaily.com/rss/top/technology.xml
 			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2020/02/200204112544.htm</guid>
 		</item>
 		<item>
+	</channel>
+</rss>
+<!-- Page successfully written to cache. -->
+<!-- Cached Mon, 10 Feb 2020 
+
