@@ -19,7 +19,6 @@
    $link = $data->getElementsByTagName("link")->item(0)->nodeValue;
    $description = $data->getElementsByTagName("description")->item(0)->nodeValue;
    $pubDate = $data->getElementsByTagName("pubDate")->item(0)->nodeValue;
-  <container> 
   echo "
    <ul>
             <h2><a href = '$link'> $title </a></h2>
@@ -29,7 +28,6 @@
                   </ul>
     </ul>
             ";
-  <container>
   ?>
 </body>
 <?php
