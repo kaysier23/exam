@@ -29,7 +29,7 @@
                   </ul>
     </ul>
             ";
-  </container>
+  <container>
   ?>
 </body>
 <?php
