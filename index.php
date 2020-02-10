@@ -1,6 +1,6 @@
 <?php
  $domOBJ = new DOMDocument();
- $domOBJ->load("https://www.sciencedaily.com/rss/all.xml");  
+ $domOBJ->load("https://www.sciencedaily.com/rss/top/science.xml");  
  
  $content = $domOBJ->getElementsByTagName("item");
  
