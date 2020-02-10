@@ -3,18 +3,13 @@
  $domOBJ->load("https://www.sciencedaily.com/rss/top/science.xml"); 
  
  $content = $domOBJ->getElementsByTagName("item");
- 
  ?>
+
   <h1>Latest Science News -- ScienceDaily</h1>
 
     <?php
  foreach( $content as $data )
  { ?>
- 
-
-<body>
- <link rel="stylesheet" href="style.css" type="text/css">
- <container>
 <?php
    $title = $data->getElementsByTagName("title")->item(0)->nodeValue;
    $link = $data->getElementsByTagName("link")->item(0)->nodeValue;
@@ -30,8 +25,6 @@
     </ul>
             ";
   ?>
-  </container>
-</body>
 <?php
  }
 ?>
