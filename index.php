@@ -5,7 +5,7 @@
  $content = $domOBJ->getElementsByTagName("item");
  
  ?>
-  <h1>SCIENCE NEWS FROM THE NEW YORK TIMES</h1>
+  <h1>Latest Science News -- ScienceDaily</h1>
 
     <?php
  foreach( $content as $data )
@@ -24,7 +24,6 @@
               <ul>
               <li>$description</li>
               <li>$pubDate</li>
-              <li>$image</li>
                   </ul>
     </ul>
             ";
