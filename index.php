@@ -24,6 +24,7 @@
               <ul>
               <li>$description</li>
               <li>$pubDate</li>
+              <li>$image</li>
                   </ul>
     </ul>
             ";
