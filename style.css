@@ -7,5 +7,8 @@ h1{
 color: white;
  position: center;
 }
-ul{
+container{
+ border: 2px white;
+ height: auto;
+ width: 250%;
 }
