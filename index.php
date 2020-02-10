@@ -44,7 +44,7 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="active" href="index.php">SCIENCE NEWS</a></li>
+  <li><a class="active" href="index.php">TOP NEWS</a></li>
   <li><a href="tech.php">TECHNOLOGY NEWS</a></li>
   <li><a class="active" href="health.php">HEALTH NEWS</a></li>
   <li><a href="envi.php">ENVIRONMENT NEWS</a></li>
@@ -61,7 +61,7 @@ li a:hover {
  $content = $domOBJ->getElementsByTagName("item");
  ?>
 
-  <h1>Latest Science News -- ScienceDaily</h1>
+  <h1>Top News -- ScienceDaily</h1>
 
     <?php
  foreach( $content as $data )
