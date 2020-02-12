@@ -46,6 +46,7 @@ li a:hover {
 <ul>
   <li><a class="active" href="index.php">TOP NEWS</a></li>
   <li><a href="sci.php">SCIENCE NEWS</a></li>
+  <li><a href="tech.php">TECHNOLOGY NEWS</a></li>
 </ul>
 
 </body>
