@@ -44,8 +44,8 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="active" href="sci.php">SCIENCE NEWS</a></li>
-  <li><a href="bnews.php">TECHNOLOGY NEWS</a></li>
+  <li><a class="active" href="index.php">TOP NEWS</a></li>
+  <li><a href="sci.php">SCIENCE NEWS</a></li>
 </ul>
 
 </body>
