@@ -44,10 +44,8 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="active" href="index.php">TOP NEWS</a></li>
+  <li><a class="active" href="sci.php">SCIENCE NEWS</a></li>
   <li><a href="bnews.php">TECHNOLOGY NEWS</a></li>
-  <li><a class="enews.php" href="health.php">HEALTH NEWS</a></li>
-  <li><a href="envi.php">ENVIRONMENT NEWS</a></li>
 </ul>
 
 </body>
@@ -56,7 +54,7 @@ li a:hover {
 
 <?php
  $domOBJ = new DOMDocument();
- $domOBJ->load("https://rss.nytimes.com/services/xml/rss/nyt/Science.xml");  
+ $domOBJ->load("https://www.sciencedaily.com/rss/top.xml");  
  
  $content = $domOBJ->getElementsByTagName("item");
  
