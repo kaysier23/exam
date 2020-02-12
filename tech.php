@@ -59,7 +59,7 @@ li a:hover {
  $content = $domOBJ->getElementsByTagName("item");
  
  ?>
-  <h1>All Top News -- ScienceDaily</h1>
+  <h1>Top Technology News -- ScienceDaily</h1>
 
     <?php
  foreach( $content as $data )
