@@ -31,7 +31,7 @@ li a:hover {
  color: black;
  }
   h2{
-  color: blue;
+  color: skyblue;
   }
  .container{
   height: auto;
