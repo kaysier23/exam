@@ -30,6 +30,9 @@ li a:hover {
  text-align: center;
  color: black;
  }
+  h2{
+  color: blue;
+  }
  .container{
   height: auto;
   width: auto;
